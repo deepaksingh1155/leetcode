@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/deepaksingh1155/leetcode/tree/master/0043-multiply-strings) |
+| [0096-unique-binary-search-trees](https://github.com/deepaksingh1155/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepaksingh1155/leetcode/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/deepaksingh1155/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/deepaksingh1155/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/deepaksingh1155/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/deepaksingh1155/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/deepaksingh1155/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
