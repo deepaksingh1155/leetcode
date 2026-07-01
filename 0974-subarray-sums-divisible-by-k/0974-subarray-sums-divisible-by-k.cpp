@@ -1,8 +1,7 @@
 class Solution {
 public:
     int subarraysDivByK(vector<int>& nums, int k) {
-    unordered_map<int, int> mp;
-
+   unordered_map<int, int> mp;
         mp[0] = 1;
 
         int sum = 0;
@@ -12,13 +11,9 @@ public:
 
             sum += x;
 
-            int rem = sum % k;
-
-            if (rem < 0)
-                rem += k;
+            int rem = ((sum % k) + k) % k;
 
             count += mp[rem];
-
             mp[rem]++;
         }
 
