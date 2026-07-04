@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/deepaksingh1155/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deepaksingh1155/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/deepaksingh1155/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/deepaksingh1155/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepaksingh1155/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepaksingh1155/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deepaksingh1155/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -50,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/deepaksingh1155/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deepaksingh1155/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/deepaksingh1155/leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/deepaksingh1155/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepaksingh1155/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/deepaksingh1155/leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/deepaksingh1155/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/deepaksingh1155/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/deepaksingh1155/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepaksingh1155/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/deepaksingh1155/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Tree
 |  |
 | ------- |
@@ -92,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/deepaksingh1155/leetcode/tree/master/0015-3sum) |
+| [0349-intersection-of-two-arrays](https://github.com/deepaksingh1155/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
