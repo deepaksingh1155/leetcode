@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/deepaksingh1155/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0523-continuous-subarray-sum](https://github.com/deepaksingh1155/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepaksingh1155/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/deepaksingh1155/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -145,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepaksingh1155/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/deepaksingh1155/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
