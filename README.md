@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/deepaksingh1155/leetcode/tree/master/0043-multiply-strings) |
 | [0096-unique-binary-search-trees](https://github.com/deepaksingh1155/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0523-continuous-subarray-sum](https://github.com/deepaksingh1155/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepaksingh1155/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deepaksingh1155/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepaksingh1155/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deepaksingh1155/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/deepaksingh1155/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2845-count-of-interesting-subarrays](https://github.com/deepaksingh1155/leetcode/tree/master/2845-count-of-interesting-subarrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepaksingh1155/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepaksingh1155/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/deepaksingh1155/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/deepaksingh1155/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2845-count-of-interesting-subarrays](https://github.com/deepaksingh1155/leetcode/tree/master/2845-count-of-interesting-subarrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepaksingh1155/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/deepaksingh1155/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepaksingh1155/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/deepaksingh1155/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1991-find-the-middle-index-in-array](https://github.com/deepaksingh1155/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2845-count-of-interesting-subarrays](https://github.com/deepaksingh1155/leetcode/tree/master/2845-count-of-interesting-subarrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Queue
 |  |
 | ------- |
@@ -156,7 +161,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepaksingh1155/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deepaksingh1155/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepaksingh1155/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
