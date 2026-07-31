@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/deepaksingh1155/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/deepaksingh1155/leetcode/tree/master/0389-find-the-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepaksingh1155/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepaksingh1155/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepaksingh1155/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/deepaksingh1155/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/deepaksingh1155/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2845-count-of-interesting-subarrays](https://github.com/deepaksingh1155/leetcode/tree/master/2845-count-of-interesting-subarrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepaksingh1155/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/deepaksingh1155/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/deepaksingh1155/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepaksingh1155/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepaksingh1155/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepaksingh1155/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/deepaksingh1155/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepaksingh1155/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/deepaksingh1155/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepaksingh1155/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
@@ -232,4 +236,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepaksingh1155/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepaksingh1155/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
