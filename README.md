@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/deepaksingh1155/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepaksingh1155/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepaksingh1155/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/deepaksingh1155/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepaksingh1155/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepaksingh1155/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deepaksingh1155/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepaksingh1155/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/deepaksingh1155/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2029-stone-game-ix](https://github.com/deepaksingh1155/leetcode/tree/master/2029-stone-game-ix) |
 | [2845-count-of-interesting-subarrays](https://github.com/deepaksingh1155/leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepaksingh1155/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/deepaksingh1155/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/deepaksingh1155/leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepaksingh1155/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
@@ -240,6 +243,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/deepaksingh1155/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepaksingh1155/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepaksingh1155/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/deepaksingh1155/leetcode/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/deepaksingh1155/leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/deepaksingh1155/leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/deepaksingh1155/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
