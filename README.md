@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/deepaksingh1155/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/deepaksingh1155/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/deepaksingh1155/leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/deepaksingh1155/leetcode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/deepaksingh1155/leetcode/tree/master/0088-merge-sorted-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/deepaksingh1155/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/deepaksingh1155/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/deepaksingh1155/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/deepaksingh1155/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepaksingh1155/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
