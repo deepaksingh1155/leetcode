@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deepaksingh1155/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/deepaksingh1155/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/deepaksingh1155/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/deepaksingh1155/leetcode/tree/master/0053-maximum-subarray) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deepaksingh1155/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/deepaksingh1155/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/deepaksingh1155/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/deepaksingh1155/leetcode/tree/master/0088-merge-sorted-array) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deepaksingh1155/leetcode/tree/master/0011-container-with-most-water) |
 | [2029-stone-game-ix](https://github.com/deepaksingh1155/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepaksingh1155/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepaksingh1155/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
