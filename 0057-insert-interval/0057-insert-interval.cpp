@@ -1,26 +1,36 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-          int n = intervals.size(), i = 0;
-        vector<vector<int>> res;
-        //case 1: no overlapping case before the merge intervals
-		//compare ending point of intervals to starting point of newInterval
-        while(i < n && intervals[i][1] < newInterval[0]){
-            res.push_back(intervals[i]);
-            i++;
-        }                           
-		//case 2: overlapping case and merging of intervals
-        while(i < n && newInterval[1] >= intervals[i][0]){
-            newInterval[0] = min(newInterval[0], intervals[i][0]);
-            newInterval[1] = max(newInterval[1], intervals[i][1]);
-            i++;
+       intervals.push_back(newInterval);
+
+    // 2. Sort karo
+    sort(intervals.begin(), intervals.end());
+
+    vector<vector<int>> ans;
+
+    // 3. Merge Intervals
+    int start1 = intervals[0][0];
+    int end1 = intervals[0][1];
+
+    for (int i = 1; i < intervals.size(); i++) {
+
+        int start2 = intervals[i][0];
+        int end2 = intervals[i][1];
+
+        if (end1 >= start2) {
+            end1 = max(end1, end2);
         }
-        res.push_back(newInterval);
-        // case 3: no overlapping of intervals after newinterval being merged
-        while(i < n){
-            res.push_back(intervals[i]);
-            i++;
+        else {
+            ans.push_back({start1, end1});
+
+            start1 = start2;
+            end1 = end2;
         }
-        return res;
+    }
+
+    // Last interval
+    ans.push_back({start1, end1});
+
+    return ans;
     }
 };
