@@ -1,21 +1,29 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-       intervals.push_back(newInterval);
+       vector<vector<int>> temp;
 
-    // 2. Sort karo
-    sort(intervals.begin(), intervals.end());
+    // 2. Purane saare intervals add
+    for (auto interval : intervals) {
+        temp.push_back(interval);
+    }
 
+    // 3. New interval bhi add
+    temp.push_back(newInterval);
+
+    // 4. Sort
+    sort(temp.begin(), temp.end());
+
+    // 5. Merge
     vector<vector<int>> ans;
 
-    // 3. Merge Intervals
-    int start1 = intervals[0][0];
-    int end1 = intervals[0][1];
+    int start1 = temp[0][0];
+    int end1 = temp[0][1];
 
-    for (int i = 1; i < intervals.size(); i++) {
+    for (int i = 1; i < temp.size(); i++) {
 
-        int start2 = intervals[i][0];
-        int end2 = intervals[i][1];
+        int start2 = temp[i][0];
+        int end2 = temp[i][1];
 
         if (end1 >= start2) {
             end1 = max(end1, end2);
@@ -28,7 +36,6 @@ public:
         }
     }
 
-    // Last interval
     ans.push_back({start1, end1});
 
     return ans;
