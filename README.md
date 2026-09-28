@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/deepaksingh1155/leetcode/tree/master/0043-multiply-strings) |
 | [0096-unique-binary-search-trees](https://github.com/deepaksingh1155/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0412-fizz-buzz](https://github.com/deepaksingh1155/leetcode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/deepaksingh1155/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepaksingh1155/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/deepaksingh1155/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/deepaksingh1155/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/deepaksingh1155/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/deepaksingh1155/leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/deepaksingh1155/leetcode/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/deepaksingh1155/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/deepaksingh1155/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/deepaksingh1155/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/deepaksingh1155/leetcode/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/deepaksingh1155/leetcode/tree/master/0412-fizz-buzz) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepaksingh1155/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
