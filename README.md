@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/deepaksingh1155/leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/deepaksingh1155/leetcode/tree/master/0043-multiply-strings) |
 | [0290-word-pattern](https://github.com/deepaksingh1155/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepaksingh1155/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/deepaksingh1155/leetcode/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksingh1155/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/deepaksingh1155/leetcode/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/deepaksingh1155/leetcode/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/deepaksingh1155/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
