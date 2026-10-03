@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/deepaksingh1155/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/deepaksingh1155/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/deepaksingh1155/leetcode/tree/master/0412-fizz-buzz) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepaksingh1155/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/deepaksingh1155/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/deepaksingh1155/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/deepaksingh1155/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/deepaksingh1155/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksingh1155/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/deepaksingh1155/leetcode/tree/master/0496-next-greater-element-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepaksingh1155/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Depth-First Search
 |  |
 | ------- |
