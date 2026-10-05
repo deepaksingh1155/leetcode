@@ -1,19 +1,18 @@
 class Solution {
 public:
     int scoreOfParentheses(string s) {
-           stack<int> st;
-        st.push(0); // The score of the current frame
-
-        for (char c : s) {
-            if (c == '(') {
-                st.push(0);
+           int ans = 0, bal = 0;
+        for (int i = 0; i < s.length(); ++i) {
+            if (s[i] == '(') {
+                bal++;
             } else {
-                int v = st.top(); st.pop();
-                int w = st.top(); st.pop();
-                st.push(w + max(2 * v, 1));
+                bal--;
+                if (s[i - 1] == '(') {
+                    ans += 1 << bal;
+                }
             }
         }
+        return ans;
 
-        return st.top();
     }
 };
