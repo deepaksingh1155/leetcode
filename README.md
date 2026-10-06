@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/deepaksingh1155/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/deepaksingh1155/leetcode/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/deepaksingh1155/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/deepaksingh1155/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepaksingh1155/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/deepaksingh1155/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/deepaksingh1155/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksingh1155/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/deepaksingh1155/leetcode/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/deepaksingh1155/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/deepaksingh1155/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepaksingh1155/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Depth-First Search
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/deepaksingh1155/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/deepaksingh1155/leetcode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/deepaksingh1155/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/deepaksingh1155/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2029-stone-game-ix](https://github.com/deepaksingh1155/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepaksingh1155/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepaksingh1155/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/deepaksingh1155/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepaksingh1155/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/deepaksingh1155/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/deepaksingh1155/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
