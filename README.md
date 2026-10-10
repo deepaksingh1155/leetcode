@@ -388,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/deepaksingh1155/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/deepaksingh1155/leetcode/tree/master/0079-word-search) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/deepaksingh1155/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
