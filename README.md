@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepaksingh1155/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/deepaksingh1155/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/deepaksingh1155/leetcode/tree/master/2029-stone-game-ix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepaksingh1155/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2845-count-of-interesting-subarrays](https://github.com/deepaksingh1155/leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepaksingh1155/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/deepaksingh1155/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepaksingh1155/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deepaksingh1155/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepaksingh1155/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepaksingh1155/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepaksingh1155/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/deepaksingh1155/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/deepaksingh1155/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepaksingh1155/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/deepaksingh1155/leetcode/tree/master/0367-valid-perfect-square) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepaksingh1155/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Tree
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/deepaksingh1155/leetcode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepaksingh1155/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepaksingh1155/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deepaksingh1155/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/deepaksingh1155/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2029-stone-game-ix](https://github.com/deepaksingh1155/leetcode/tree/master/2029-stone-game-ix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepaksingh1155/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepaksingh1155/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepaksingh1155/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Minimax
