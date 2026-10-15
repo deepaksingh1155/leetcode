@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/deepaksingh1155/leetcode/tree/master/2029-stone-game-ix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/deepaksingh1155/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2845-count-of-interesting-subarrays](https://github.com/deepaksingh1155/leetcode/tree/master/2845-count-of-interesting-subarrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepaksingh1155/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepaksingh1155/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/deepaksingh1155/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/deepaksingh1155/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deepaksingh1155/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2845-count-of-interesting-subarrays](https://github.com/deepaksingh1155/leetcode/tree/master/2845-count-of-interesting-subarrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepaksingh1155/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepaksingh1155/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepaksingh1155/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -397,4 +399,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/deepaksingh1155/leetcode/tree/master/0175-combine-two-tables) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepaksingh1155/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepaksingh1155/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
