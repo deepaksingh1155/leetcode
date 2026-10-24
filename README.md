@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/deepaksingh1155/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepaksingh1155/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/deepaksingh1155/leetcode/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/deepaksingh1155/leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepaksingh1155/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepaksingh1155/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepaksingh1155/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/deepaksingh1155/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/deepaksingh1155/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/deepaksingh1155/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2409-count-days-spent-together](https://github.com/deepaksingh1155/leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepaksingh1155/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepaksingh1155/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepaksingh1155/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
