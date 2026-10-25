@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/deepaksingh1155/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepaksingh1155/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/deepaksingh1155/leetcode/tree/master/0986-interval-list-intersections) |
+| [1254-number-of-closed-islands](https://github.com/deepaksingh1155/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/deepaksingh1155/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/deepaksingh1155/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepaksingh1155/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -284,11 +285,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/deepaksingh1155/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/deepaksingh1155/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksingh1155/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/deepaksingh1155/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/deepaksingh1155/leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/deepaksingh1155/leetcode/tree/master/0079-word-search) |
+| [1254-number-of-closed-islands](https://github.com/deepaksingh1155/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Enumeration
 |  |
 | ------- |
@@ -424,4 +427,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepaksingh1155/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/deepaksingh1155/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/deepaksingh1155/leetcode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/deepaksingh1155/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
